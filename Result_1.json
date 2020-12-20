@@ -1,0 +1,97 @@
+[
+  {
+    "latitude": 45.536179,
+    "longitude": -122.665179,
+    "route_stop_id": 1
+  },
+  {
+    "latitude": 45.537278,
+    "longitude": -122.643477,
+    "route_stop_id": 11
+  },
+  {
+    "latitude": 45.546657,
+    "longitude": -122.603173,
+    "route_stop_id": 20
+  },
+  {
+    "latitude": 45.529852,
+    "longitude": -122.624654,
+    "route_stop_id": 30
+  },
+  {
+    "latitude": 45.513231,
+    "longitude": -122.584243,
+    "route_stop_id": 35
+  },
+  {
+    "latitude": 45.503096,
+    "longitude": -122.630393,
+    "route_stop_id": 40
+  },
+  {
+    "latitude": 45.478385,
+    "longitude": -122.573107,
+    "route_stop_id": 50
+  },
+  {
+    "latitude": 45.476648,
+    "longitude": -122.685371,
+    "route_stop_id": 60
+  },
+  {
+    "latitude": 45.496851,
+    "longitude": -122.690591,
+    "route_stop_id": 65
+  },
+  {
+    "latitude": 45.464896,
+    "longitude": -122.731039,
+    "route_stop_id": 70
+  },
+  {
+    "latitude": 45.514295,
+    "longitude": -122.749751,
+    "route_stop_id": 80
+  },
+  {
+    "latitude": 45.544199,
+    "longitude": -122.721789,
+    "route_stop_id": 85
+  },
+  {
+    "latitude": 45.539751,
+    "longitude": -122.712185,
+    "route_stop_id": 90
+  },
+  {
+    "latitude": 45.565724,
+    "longitude": -122.698675,
+    "route_stop_id": 100
+  },
+  {
+    "latitude": 45.579641,
+    "longitude": -122.672651,
+    "route_stop_id": 105
+  },
+  {
+    "latitude": 45.576968,
+    "longitude": -122.673552,
+    "route_stop_id": 110
+  },
+  {
+    "latitude": 45.554937,
+    "longitude": -122.620128,
+    "route_stop_id": 120
+  },
+  {
+    "latitude": 45.528449,
+    "longitude": -122.631355,
+    "route_stop_id": 125
+  },
+  {
+    "latitude": 45.591065,
+    "longitude": -122.721441,
+    "route_stop_id": 130
+  }
+]
